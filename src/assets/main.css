@@ -1,0 +1,11 @@
+* {
+  font-family: 'Gilroy', sans-serif;
+  transition: 0.3s all;
+  font-weight: 600;
+  margin: 0  auto;
+}
+
+#app {
+  width: 200px;
+  box-shadow: 0 3px 15px grey;  
+}
